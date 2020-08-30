@@ -2,7 +2,8 @@
 
 > Basic routing examples in vanilla JavaScript.
 
-The project has been bundled with [Vite](https://github.com/vitejs/vite)
+- Developer environment setup with [Vite](https://github.com/vitejs/vite)
+- Linting with [Prettier](https://prettier.io/)
 
 ## Install:
 
