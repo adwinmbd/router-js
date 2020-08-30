@@ -1,0 +1,65 @@
+/*
+#img {
+  display: block;
+  margin: auto;
+  height: 128px;
+  width: 128px;
+  padding: 2rem;
+}
+
+#canvas {
+  display: block;
+  margin: 2rem auto;
+  width: 540px;
+  height: 540px;
+}
+*/
+/*
+@font-face {
+  font-family: "Lato", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+a,
+li {
+  padding: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.active {
+  box-shadow: inset 1px 1px 3px 0px rgba(0, 0, 0, 0.2);
+}
+
+.post {
+  max-width: 60ch;
+  background-color: #efefef;
+  padding: 1rem;
+  margin: 2rem auto;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.3);
+}
+
+.post img {
+  width: 100%;
+}
+*/

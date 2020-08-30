@@ -1,0 +1,14 @@
+{
+  "name": "testa",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "format": "prettier --write \"src/**/*.js\"",
+    "lint": "prettier --check \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1",
+    "vite": "^1.0.0-rc.1"
+  }
+}
